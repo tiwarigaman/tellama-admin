@@ -1,0 +1,12 @@
+MONGODB_URI_Local=mongodb://localhost:27017
+NODE_ENV=production
+MONGODB_URI=mongodb+srv://vk9407802:TXusTUj4u1gY4zEl@travel.9lwxxge.mongodb.net/
+DB_NAME=mydigiDB
+EMAIL_HOST=mail.mydigilink.biz
+EMAIL_PORT=465
+EMAIL_SECURE=false
+EMAIL_USER=Indiatellama.work@gmail.com
+EMAIL_PASS=aamv bjyf flyj gaio
+EMAIL_TO=mydigilink.biz@gmail.com
+API_SECRET_TOKEN=k4Vx9Wc8QzRb7NgPjYt2LmAzFwUoXhSr
+NEXT_PUBLIC_API_URL=https://www.indiatellama.com
